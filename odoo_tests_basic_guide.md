@@ -1,5 +1,8 @@
 # 🧪 Guía Completa de Tests en Odoo 17/18 - Cheat Sheet
 
+> 💡 **Pro Tip**: Siempre ejecuta los tests antes de hacer commit. Un test que falla en desarrollo es más fácil de arreglar que en producción.
+> Usa mis videos de pre-commit de youtube para primero tener el codigo limpio y de calidad (Consejo de LisarDoo)
+
 ## 📁 Estructura base de Archivos en un modulo con tests
 
 ```
