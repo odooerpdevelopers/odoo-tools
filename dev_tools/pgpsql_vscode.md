@@ -50,6 +50,8 @@ psql -U postgres -d postgres -c "CREATE USER odoo WITH PASSWORD 'Admin123' SUPER
 
 **⚠️ Importante**: Cambia `Admin123` por tu password seguro.
 
+> Puedes conectarte remotamente a PostgreSQL siguiendo este tutorial: [PostgreSQL Odoo Remote Connection](https://youtu.be/60purteesXI?feature=shared)
+
 ### 2️⃣ Instalar Extensiones VS Code
 
 #### PostgreSQL Extension (Microsoft)
