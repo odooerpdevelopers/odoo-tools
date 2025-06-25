@@ -1,4 +1,4 @@
-# 🐘 PostgreSQL + VS Code + Copilot Agent Setup Guide
+# 🐘 PostgreSQL + VS Code
 
 > **Tutorial completo**: Configurar PostgreSQL con VS Code y Copilot Agent para desarrollo moderno sin fricción.
 
